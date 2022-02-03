@@ -10,8 +10,7 @@ export default function Home() {
         <link rel="icon" href="../public/favicon.ico" />
       </Head>
 
-      <div className="bg-logo bg-center bg-cover flex-grow h-44 sm:rounded-lg"/>
-        <div className="text-lg">Allo allo</div>
+      <div className="mt-36 bg-logo bg-center bg-no-repeat bg-contain flex-grow h-44 sm:rounded-lg"/>
     </div>
   )
 }
